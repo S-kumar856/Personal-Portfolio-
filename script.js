@@ -20,7 +20,7 @@ icon.onclick =function(){
         icon.src="sun.png";
     }
     else{
-        icon.src="images/moon.png";
+        icon.src="moon.png";
     }
 }   
 //smallscreen-navbar-------------------------
